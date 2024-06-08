@@ -1,7 +1,7 @@
 ![logo](https://github.com/Samim-Akther/Samim-Akther/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Samim Akther</h1>
 <h3 align="center"> A graduate with a passion for software development and programming.</h3>
-<img align="right" alt= "coding"width="400" src="https://media1.tenor.com/m/zn8iyusePtgAAAAC/joy.gif"
+<img align="right" alt= "coding"width="380" src="https://media1.tenor.com/m/zn8iyusePtgAAAAC/joy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samim-akther&label=Profile%20views&color=0e75b6&style=flat" alt="samim-akther" /> </p>
 
