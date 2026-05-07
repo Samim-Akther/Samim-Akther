@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&width=850&lines=Hello!+I%E2%80%99m+Samim+Akther+%F0%9F%91%8B;SAP+ABAP+Developer+%7C+S%2F4HANA+%7C+Enterprise+Development;Interfaces+%7C+Enhancements+%7C+ALV+Reports+%7C+Forms+%7C+IDocs;Building+reliable+solutions+with+clean+and+performant+code+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&width=850&lines=Hello!+I%E2%80%99m+Samim+Akther+%F0%9F%91%8B;SAP+ABAP+Developer+%7C+S%2F4HANA+%7C+Enterprise+Development;Interfaces+%7C+Enhancements+%7C+ALV+Reports+%7C+Forms+%7C+IDocs;I+build+reliable+solutions+with+clean+and+performant+code+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -24,14 +24,10 @@
 
 ## 🧊 About Me
 
-</div>
-
-<div align="center">
-
 Hello! I’m **Samim**, a **Software Developer** with strong experience in **SAP ABAP on S/4HANA** and **enterprise application development**.  
 I enjoy building scalable solutions, optimizing performance, and delivering clean, maintainable ABAP code.
 
-💼 **Core Areas:** ABAP OOP • Enhancements (BAdI/User Exit/Implicit) • Interfaces (Proxy/IDoc/Files) • ALV Reports • Forms  
+💼 **Core Areas:** ABAP OO • Enhancements (BAdI/User Exit/Implicit) • Interfaces (IDoc/Proxy/File) • ALV Reports • Forms  
 ⚙️ **Focus:** Performance tuning • Clean architecture • Robust error handling • Standard SAP best practices  
 📩 Ask me about **SAP ABAP, S/4HANA development, Interfaces, ALV, Enhancements**
 
@@ -64,23 +60,13 @@ I enjoy building scalable solutions, optimizing performance, and delivering clea
 ## 🛠️ Languages & Tools
 
 <img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode&theme=dark" />
+
 <br/><br/>
-<!-- SAP ABAP doesn't exist in skillicons, so we show it as badges -->
+
 <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 <img src="https://img.shields.io/badge/S%2F4HANA-111827?style=for-the-badge&logo=sap&logoColor=0FAAFF" />
-<img src="https://img.shields.io/badge/ABAP%20OO-7F00FF?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/IDoc%20%7C%20Proxy%20%7C%20RFC-00D4FF?style=for-the-badge&logoColor=white" />
-
-</div>
-
-<br/>
-
-<!-- ========= STATS (ONLY ONE IMAGE AS REQUESTED) ========= -->
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=samim-akther&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+<img src="https://img.shields.io/badge/ABAP%20OO-7F00FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IDoc%20%7C%20Proxy%20%7C%20RFC-00D4FF?style=for-the-badge" />
 
 </div>
 
